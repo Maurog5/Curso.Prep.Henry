@@ -297,7 +297,7 @@ function continueStatement(numero) {
       array.push(suma);
     }
   }
-  return array
+  return array;
 }
 
 
